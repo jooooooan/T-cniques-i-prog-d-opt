@@ -1,1 +1,1 @@
-# Tecniques-i-prog-d-opt
+# Tecniques i prog d-opt
